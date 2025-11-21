@@ -1,0 +1,4 @@
+﻿,Precision@10,Recall@10,MAP@10,nDCG@10
+k=100,"('Title+Text NoStop', 0.2628)","('Title+Text NoStop', 0.25867590143622343)","('Title+Text NoStop', 0.15832966761399248)","('Title+Text NoStop', 0.38263316587780805)"
+k=500,"('Title', 0.08008000000000001)","('Title', 0.3800134191166281)","('Title+Text NoStop', 0.18064496071521766)","('Title+Text NoStop', 0.39129396769752134)"
+k=1000,"('Title', 0.04968)","('Title NoStop', 0.46109495155749386)","('Title+Text NoStop', 0.18064496071521766)","('Title NoStop', 0.4089323555012026)"
